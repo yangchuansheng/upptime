@@ -34,7 +34,7 @@ i18n:
   overallUptime: "运行时长: $UPTIME"
   overallUptimeTitle: 运行时长
   averageResponseTime: "平均响应时间: $TIMEms"
-  averageResponseTimeTitle: 平均响应时间
+  averageResponseTimeTitle: 平均响应时间1
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
