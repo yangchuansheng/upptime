@@ -29,6 +29,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
+i18n:
+  overallUptime: "运行时长: $UPTIME"
+  overallUptimeTitle: 运行时长
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
