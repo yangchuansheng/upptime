@@ -1,31 +1,66 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: yangchuansheng # Your GitHub username
+repo: upptime # Your Github repository name
 
+# Add your sites here
 sites:
+  - name: Cloud Native
+    url: https://icloudnative.io
+    icon: https://icloudnative.io/favicon/favicon.ico
   - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://google.icloudnative.io
+    icon: https://www.google.com/favicon.ico
+  - name: Sealyun
+    url: https://www.sealyun.com
+    icon: https://www.sealyun.com/favicon.ico
+  - name: Docker Hub Mirror
+    url: https://docker.icloudnative.io
+    icon: https://hub.docker.com/favicon.ico
+  - name: gcr.io Mirror
+    url: https://gcr.icloudnative.io
+    icon: https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-14-22-96fQTG.png
+  - name: Umami
+    url: https://umami.icloudnative.io
+    icon: https://umami.icloudnative.io/favicon.ico
+  - name: Privatebin
+    url: https://privatebin.icloudnative.io
+    icon: https://privatebin.icloudnative.io/img/favicon.ico
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  theme: dark
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: upptime-carsonyang.vercel.app
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "实时监控云原生实验室相关网站、服务等在线状态"
+  introMessage: "[云原生实验室](https://icloudnative.io)提供了多种服务，包含 [Google 搜索镜像站](https://google.icloudnative.io)、[共享剪切板服务](https://privatebin.icloudnative.io)、[K8s 一键部署工具](https://www.sealyun.com)，以及 [Docker Hub 与 gcr.io 等镜像仓库代理](https://icloudnative.io/posts/docker-registry-proxy/)等。"
   navbar:
-    - title: Status
+    - title: 监控
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: 主页
+      href: https://icloudnative.io
+      
+i18n:
+  overallUptime: "平均可用率: $UPTIME"
+  overallUptimeTitle: 平均可用率
+  activeIncidents: 实时事件
+  averageResponseTime: "平均响应时间: $TIMEms"
+  averageResponseTimeTitle: 平均响应时间
+  allSystemsOperational: 所有站点运行正常
+  down: 故障
+  up: 健康
+  footer: powered by [云原生实验室](https://icloudnative.io)
+  incidentDetails: 事件详情
+  incidentBack: ← 回到事件列表
+  liveStatus: 实时状态
+  pastIncidents: 历史事件
+  pastIncidentsResolved: $MINUTES 分钟前已恢复正常
+  pastScheduledMaintenance: 定期维护历史
+  scheduledMaintenance: 定期维护
+  responseTimeMs: 响应时间 (ms)
+  sevelDayResponseTime: 7-day 响应时间
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
