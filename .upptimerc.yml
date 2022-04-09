@@ -22,7 +22,7 @@ sites:
   - name: Umami
     url: https://umami.icloudnative.io
     icon: https://umami.icloudnative.io/favicon.ico
-  - name: Privatebin
+  - name: Privatebin1
     url: https://privatebin.icloudnative.io
     icon: https://privatebin.icloudnative.io/img/favicon.ico
 
