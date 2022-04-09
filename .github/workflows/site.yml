@@ -31,11 +31,6 @@ jobs:
           command: "site"
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-      - name: modify
-        run: |
-          sed -i "s/raw.githubusercontent.com/github.icloudnative.io/g" site/status-page/__sapper__/export/client/legacy/_number_.*
-          sed -i "s/raw.githubusercontent.com/github.icloudnative.io/g" site/status-page/__sapper__/export/client/index.*
-          sed -i "s/raw.githubusercontent.com/github.icloudnative.io/g" site/status-page/__sapper__/export/client/_number_.*
       - uses: peaceiris/actions-gh-pages@v3.7.3
         name: GitHub Pages Deploy
         with:
