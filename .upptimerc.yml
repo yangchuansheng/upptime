@@ -28,7 +28,7 @@ sites:
 
 status-website:
   # theme: dark
-  themeUrl: https://raw.githubusercontent.com/yangchuansheng/upptime/master/assets/my-custom-theme.css
+  themeUrl: https://jsdelivr.icloudnative.io/gh/yangchuansheng/upptime/assets/my-custom-theme1.css
   # apiBaseUrl:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: upptime.icloudnative.io
