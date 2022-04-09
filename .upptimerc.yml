@@ -27,7 +27,8 @@ sites:
     icon: https://privatebin.icloudnative.io/img/favicon.ico
 
 status-website:
-  theme: dark
+  # theme: dark
+  themeUrl: https://jsdelivr.icloudnative.io/gh/yangchuansheng/upptime@master/assets/my-custom-theme.css
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: upptime.icloudnative.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
