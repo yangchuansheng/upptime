@@ -35,7 +35,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://jsdelivr.fuckcloudnative.io/gh/upptime/upptime.js.org@master/static/img/icon.svg
-  name: upptime
+  name: Uptime
   introTitle: "实时监控云原生实验室相关网站、服务等在线状态"
   introMessage: "[云原生实验室](https://icloudnative.io)提供了多种服务，包含 [Google 搜索镜像站](https://google.icloudnative.io)、[共享剪切板服务](https://privatebin.icloudnative.io)、[K8s 一键部署工具](https://www.sealyun.com)，以及 [Docker Hub 与 gcr.io 等镜像仓库代理](https://icloudnative.io/posts/docker-registry-proxy/)等。"
   navbar:
