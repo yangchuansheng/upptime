@@ -24,3 +24,7 @@
   --graph-opacity: 1;
   --graph-filter: none;
 }
+
+a {
+    color: #8aa2d3;
+}
