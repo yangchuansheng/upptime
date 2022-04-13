@@ -22,18 +22,20 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3137,
-    "timeDay": 4048,
-    "timeWeek": 3137,
-    "timeMonth": 3137,
-    "timeYear": 3137,
-    "dailyMinutesDown": {}
+    "time": 3510,
+    "timeDay": 9927,
+    "timeWeek": 3510,
+    "timeMonth": 3510,
+    "timeYear": 3510,
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Sealyun",
