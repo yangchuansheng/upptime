@@ -24,18 +24,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3500,
     "timeDay": 7673,
     "timeWeek": 3500,
     "timeMonth": 3500,
     "timeYear": 3500,
-    "dailyMinutesDown": {
-      "2022-04-13": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sealyun",
@@ -114,17 +112,19 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1389,
-    "timeDay": 1320,
-    "timeWeek": 1389,
-    "timeMonth": 1389,
-    "timeYear": 1389,
-    "dailyMinutesDown": {}
+    "time": 2110,
+    "timeDay": 8562,
+    "timeWeek": 2110,
+    "timeMonth": 2110,
+    "timeYear": 2110,
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   }
 ]
