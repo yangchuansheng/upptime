@@ -1,7 +1,7 @@
 url: https://www.sealyun.com
-status: up
-code: 200
-responseTime: 641
-lastUpdated: 2022-04-15T23:18:28.293Z
+status: down
+code: 504
+responseTime: 10664
+lastUpdated: 2022-04-16T11:47:22.971Z
 startTime: Sat Apr 09 2022 07:44:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
