@@ -1,7 +1,7 @@
 url: https://google.icloudnative.io
-status: up
-code: 200
-responseTime: 3093
-lastUpdated: 2022-04-16T23:17:33.202Z
+status: down
+code: 504
+responseTime: 15835
+lastUpdated: 2022-04-17T15:08:24.678Z
 startTime: Mon Aug 10 2020 07:54:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
