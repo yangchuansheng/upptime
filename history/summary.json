@@ -24,17 +24,17 @@
     "slug": "google",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "54.59%",
-    "uptimeWeek": "93.32%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "99.87%",
+    "uptimeDay": "50.85%",
+    "uptimeWeek": "92.78%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "99.86%",
     "time": 4367,
     "timeDay": 18286,
     "timeWeek": 7557,
     "timeMonth": 4367,
     "timeYear": 4367,
     "dailyMinutesDown": {
-      "2022-04-21": 199,
+      "2022-04-21": 252,
       "2022-04-20": 455,
       "2022-04-17": 20
     }
@@ -62,10 +62,10 @@
     "url": "https://docker.icloudnative.io",
     "icon": "https://hub.docker.com/favicon.ico",
     "slug": "docker-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 932,
@@ -73,7 +73,9 @@
     "timeWeek": 1430,
     "timeMonth": 932,
     "timeYear": 932,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 1
+    }
   },
   {
     "name": "gcr.io Mirror",
@@ -123,14 +125,14 @@
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
     "status": "up",
-    "uptime": "93.43%",
+    "uptime": "93.45%",
     "uptimeDay": "91.87%",
-    "uptimeWeek": "90.66%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "93.43%",
+    "uptimeWeek": "90.76%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "93.45%",
     "time": 3877,
     "timeDay": 5604,
-    "timeWeek": 4209,
+    "timeWeek": 4233,
     "timeMonth": 3877,
     "timeYear": 3877,
     "dailyMinutesDown": {
