@@ -13,7 +13,7 @@
     "time": 379,
     "timeDay": 161,
     "timeWeek": 239,
-    "timeMonth": 815,
+    "timeMonth": 788,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2022-11-23": 73,
@@ -36,7 +36,7 @@
     "time": 3262,
     "timeDay": 2082,
     "timeWeek": 2426,
-    "timeMonth": 2470,
+    "timeMonth": 2468,
     "timeYear": 3262,
     "dailyMinutesDown": {
       "2022-12-12": 139,
@@ -116,7 +116,7 @@
     "time": 1023,
     "timeDay": 339,
     "timeWeek": 312,
-    "timeMonth": 329,
+    "timeMonth": 330,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2022-07-10": 450,
@@ -141,7 +141,7 @@
     "time": 781,
     "timeDay": 800,
     "timeWeek": 653,
-    "timeMonth": 786,
+    "timeMonth": 788,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2022-11-14": 21,
@@ -185,7 +185,7 @@
     "time": 792,
     "timeDay": 751,
     "timeWeek": 679,
-    "timeMonth": 773,
+    "timeMonth": 774,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2022-12-12": 98,
@@ -224,17 +224,17 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
-    "uptime": "96.90%",
-    "uptimeDay": "70.34%",
+    "status": "down",
+    "uptime": "96.91%",
+    "uptimeDay": "71.19%",
     "uptimeWeek": "94.27%",
-    "uptimeMonth": "95.84%",
-    "uptimeYear": "96.90%",
-    "time": 1161,
-    "timeDay": 1221,
-    "timeWeek": 1179,
-    "timeMonth": 1364,
-    "timeYear": 1161,
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "96.91%",
+    "time": 1162,
+    "timeDay": 1223,
+    "timeWeek": 1185,
+    "timeMonth": 1367,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2022-12-12": 392,
       "2022-12-11": 154,
@@ -269,7 +269,7 @@
       "2022-10-08": 23,
       "2022-10-06": 67,
       "2022-10-04": 101,
-      "2022-10-02": 176
+      "2022-10-02": 154
     }
   },
   {
@@ -277,17 +277,17 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
-    "uptime": "92.68%",
-    "uptimeDay": "82.19%",
-    "uptimeWeek": "96.55%",
+    "status": "down",
+    "uptime": "92.69%",
+    "uptimeDay": "82.17%",
+    "uptimeWeek": "96.54%",
     "uptimeMonth": "86.98%",
-    "uptimeYear": "92.68%",
-    "time": 2945,
-    "timeDay": 3150,
-    "timeWeek": 3003,
-    "timeMonth": 2763,
-    "timeYear": 2945,
+    "uptimeYear": "92.69%",
+    "time": 2948,
+    "timeDay": 3213,
+    "timeWeek": 3045,
+    "timeMonth": 2776,
+    "timeYear": 2948,
     "dailyMinutesDown": {
       "2022-12-12": 257,
       "2022-12-11": 74,
@@ -333,8 +333,7 @@
       "2022-09-11": 15,
       "2022-09-09": 496,
       "2022-09-08": 1440,
-      "2022-09-07": 164,
-      "2022-09-04": 32
+      "2022-09-07": 164
     }
   }
 ]
