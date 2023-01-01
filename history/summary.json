@@ -27,9 +27,9 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "86.67%",
+    "uptimeDay": "86.66%",
     "uptimeWeek": "96.28%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "98.13%",
@@ -103,7 +103,7 @@
       "2022-06-06": 16,
       "2022-04-29": 223,
       "2022-04-28": 507,
-      "2022-04-27": 409
+      "2022-04-27": 390
     }
   },
   {
@@ -138,9 +138,9 @@
     "slug": "docker-hub-mirror",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "98.80%",
     "time": 772,
     "timeDay": 661,
@@ -148,7 +148,7 @@
     "timeMonth": 648,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2023-01-01": 60,
+      "2023-01-01": 46,
       "2022-11-14": 21,
       "2022-11-13": 103,
       "2022-11-12": 2,
@@ -230,11 +230,11 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "97.14%",
-    "uptimeDay": "93.14%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "98.28%",
+    "uptimeDay": "93.60%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "97.14%",
     "time": 1151,
     "timeDay": 800,
@@ -242,7 +242,7 @@
     "timeMonth": 1085,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2023-01-01": 99,
+      "2023-01-01": 92,
       "2022-12-13": 78,
       "2022-12-12": 392,
       "2022-12-11": 154,
@@ -286,9 +286,9 @@
     "slug": "privatebin",
     "status": "up",
     "uptime": "93.85%",
-    "uptimeDay": "95.06%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "93.85%",
     "time": 2893,
     "timeDay": 943,
@@ -296,7 +296,7 @@
     "timeMonth": 2473,
     "timeYear": 2893,
     "dailyMinutesDown": {
-      "2023-01-01": 71,
+      "2023-01-01": 64,
       "2022-12-25": 15,
       "2022-12-13": 132,
       "2022-12-12": 281,
@@ -336,7 +336,7 @@
       "2022-10-06": 66,
       "2022-10-04": 100,
       "2022-10-02": 399,
-      "2022-10-01": 419
+      "2022-10-01": 437
     }
   }
 ]
