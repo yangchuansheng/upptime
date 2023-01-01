@@ -27,9 +27,9 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "76.19%",
+    "uptimeDay": "76.18%",
     "uptimeWeek": "94.78%",
     "uptimeMonth": "97.98%",
     "uptimeYear": "98.32%",
@@ -99,7 +99,7 @@
       "2022-06-24": 464,
       "2022-06-22": 532,
       "2022-06-21": 462,
-      "2022-06-16": 45
+      "2022-06-16": 29
     }
   },
   {
@@ -132,9 +132,9 @@
     "url": "https://docker.icloudnative.io",
     "icon": "https://hub.docker.com/favicon.ico",
     "slug": "docker-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "83.49%",
+    "uptimeDay": "83.48%",
     "uptimeWeek": "97.64%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "98.75%",
@@ -228,9 +228,9 @@
     "slug": "umami",
     "status": "up",
     "uptime": "97.15%",
-    "uptimeDay": "87.07%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.08%",
+    "uptimeDay": "87.54%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.10%",
     "uptimeYear": "97.15%",
     "time": 1146,
     "timeDay": 780,
@@ -238,7 +238,7 @@
     "timeMonth": 1058,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2023-01-01": 187,
+      "2023-01-01": 180,
       "2022-12-13": 78,
       "2022-12-12": 392,
       "2022-12-11": 154,
@@ -270,7 +270,8 @@
       "2022-10-19": 1,
       "2022-10-18": 15,
       "2022-10-10": 15,
-      "2022-10-08": 23
+      "2022-10-08": 23,
+      "2022-10-06": 22
     }
   },
   {
@@ -280,9 +281,9 @@
     "slug": "privatebin",
     "status": "down",
     "uptime": "93.89%",
-    "uptimeDay": "82.89%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "98.25%",
+    "uptimeDay": "82.43%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "98.24%",
     "uptimeYear": "93.89%",
     "time": 2871,
     "timeDay": 866,
@@ -290,7 +291,7 @@
     "timeMonth": 2337,
     "timeYear": 2871,
     "dailyMinutesDown": {
-      "2023-01-01": 246,
+      "2023-01-01": 253,
       "2022-12-25": 15,
       "2022-12-13": 132,
       "2022-12-12": 281,
