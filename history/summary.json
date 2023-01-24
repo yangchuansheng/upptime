@@ -217,18 +217,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "97.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "97.37%",
-    "time": 1131,
-    "timeDay": 781,
-    "timeWeek": 657,
-    "timeMonth": 823,
-    "timeYear": 1131,
+    "time": 1132,
+    "timeDay": 1319,
+    "timeWeek": 807,
+    "timeMonth": 837,
+    "timeYear": 1132,
     "dailyMinutesDown": {
+      "2023-01-24": 0,
       "2023-01-05": 21,
       "2023-01-01": 257,
       "2022-12-13": 78,
@@ -258,7 +259,7 @@
       "2022-10-23": 78,
       "2022-10-22": 121,
       "2022-10-21": 49,
-      "2022-10-20": 44
+      "2022-10-20": 19
     }
   },
   {
