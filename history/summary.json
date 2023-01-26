@@ -258,17 +258,17 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
-    "uptime": "94.45%",
-    "uptimeDay": "68.89%",
-    "uptimeWeek": "86.95%",
+    "status": "down",
+    "uptime": "96.36%",
+    "uptimeDay": "69.33%",
+    "uptimeWeek": "86.94%",
     "uptimeMonth": "95.96%",
-    "uptimeYear": "94.45%",
-    "time": 2856,
-    "timeDay": 3263,
-    "timeWeek": 3172,
-    "timeMonth": 2595,
-    "timeYear": 2856,
+    "uptimeYear": "96.36%",
+    "time": 2858,
+    "timeDay": 3270,
+    "timeWeek": 3189,
+    "timeMonth": 2610,
+    "timeYear": 2858,
     "dailyMinutesDown": {
       "2023-01-26": 266,
       "2023-01-25": 646,
@@ -293,13 +293,7 @@
       "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
-      "2022-11-07": 749,
-      "2022-11-04": 910,
-      "2022-11-03": 1440,
-      "2022-11-02": 1440,
-      "2022-11-01": 1440,
-      "2022-10-31": 1440,
-      "2022-10-30": 1360
+      "2022-11-07": 749
     }
   }
 ]
