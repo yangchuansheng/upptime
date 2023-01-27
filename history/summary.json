@@ -220,8 +220,8 @@
     "status": "down",
     "uptime": "99.13%",
     "uptimeDay": "53.52%",
-    "uptimeWeek": "82.97%",
-    "uptimeMonth": "95.45%",
+    "uptimeWeek": "82.90%",
+    "uptimeMonth": "95.43%",
     "uptimeYear": "99.13%",
     "time": 1144,
     "timeDay": 1192,
@@ -229,7 +229,7 @@
     "timeMonth": 1108,
     "timeYear": 1144,
     "dailyMinutesDown": {
-      "2023-01-27": 575,
+      "2023-01-27": 582,
       "2023-01-26": 401,
       "2023-01-25": 466,
       "2023-01-24": 279,
@@ -251,17 +251,17 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "98.12%",
-    "uptimeDay": "65.20%",
+    "uptimeDay": "65.17%",
     "uptimeWeek": "81.50%",
     "uptimeMonth": "94.71%",
     "uptimeYear": "98.12%",
-    "time": 2878,
-    "timeDay": 3234,
-    "timeWeek": 3204,
-    "timeMonth": 2755,
-    "timeYear": 2878,
+    "time": 2881,
+    "timeDay": 3231,
+    "timeWeek": 3215,
+    "timeMonth": 2765,
+    "timeYear": 2881,
     "dailyMinutesDown": {
       "2023-01-27": 405,
       "2023-01-26": 409,
@@ -281,7 +281,7 @@
       "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1289,
-      "2022-11-13": 259
+      "2022-11-13": 242
     }
   }
 ]
