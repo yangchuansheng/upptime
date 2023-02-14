@@ -223,19 +223,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "94.70%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "94.72%",
     "uptimeYear": "99.25%",
     "time": 1155,
-    "timeDay": 1151,
-    "timeWeek": 1386,
-    "timeMonth": 1210,
+    "timeDay": 1170,
+    "timeWeek": 1389,
+    "timeMonth": 1211,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2023-02-14": 55,
+      "2023-02-14": 47,
       "2023-02-13": 57,
       "2023-02-12": 62,
       "2023-01-28": 291,
@@ -261,9 +261,9 @@
     "slug": "privatebin",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "94.71%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "93.87%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.21%",
     "time": 2878,
     "timeDay": 3637,
@@ -271,7 +271,7 @@
     "timeMonth": 3050,
     "timeYear": 2878,
     "dailyMinutesDown": {
-      "2023-02-14": 75,
+      "2023-02-14": 67,
       "2023-02-13": 57,
       "2023-02-12": 42,
       "2023-02-06": 216,
@@ -284,7 +284,7 @@
       "2023-01-01": 432,
       "2022-12-25": 15,
       "2022-12-13": 132,
-      "2022-12-12": 257
+      "2022-12-12": 281
     }
   }
 ]
