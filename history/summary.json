@@ -36,7 +36,7 @@
     "time": 2971,
     "timeDay": 2029,
     "timeWeek": 2405,
-    "timeMonth": 2465,
+    "timeMonth": 2469,
     "timeYear": 2971,
     "dailyMinutesDown": {
       "2023-02-20": 20,
@@ -227,19 +227,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "93.39%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "94.21%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "93.35%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "99.30%",
     "time": 1154,
-    "timeDay": 1138,
-    "timeWeek": 1138,
-    "timeMonth": 1206,
+    "timeDay": 1157,
+    "timeWeek": 1142,
+    "timeMonth": 1207,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2023-02-20": 96,
+      "2023-02-20": 97,
       "2023-02-18": 16,
       "2023-02-16": 89,
       "2023-02-15": 27,
@@ -254,8 +254,7 @@
       "2023-01-05": 21,
       "2023-01-01": 257,
       "2022-12-13": 78,
-      "2022-12-12": 392,
-      "2022-12-11": 36
+      "2022-12-12": 321
     }
   },
   {
@@ -263,17 +262,17 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "94.17%",
-    "uptimeWeek": "97.74%",
+    "uptimeDay": "94.13%",
+    "uptimeWeek": "97.73%",
     "uptimeMonth": "93.66%",
     "uptimeYear": "99.23%",
-    "time": 2877,
-    "timeDay": 3263,
-    "timeWeek": 3109,
-    "timeMonth": 3080,
-    "timeYear": 2877,
+    "time": 2879,
+    "timeDay": 3422,
+    "timeWeek": 3145,
+    "timeMonth": 3087,
+    "timeYear": 2879,
     "dailyMinutesDown": {
       "2023-02-20": 84,
       "2023-02-16": 20,
@@ -290,7 +289,7 @@
       "2023-01-01": 432,
       "2022-12-25": 15,
       "2022-12-13": 132,
-      "2022-12-12": 145
+      "2022-12-12": 123
     }
   }
 ]
