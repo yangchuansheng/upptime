@@ -29,9 +29,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "95.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "95.93%",
     "uptimeYear": "99.07%",
     "time": 2971,
     "timeDay": 2893,
@@ -39,7 +39,6 @@
     "timeMonth": 2489,
     "timeYear": 2971,
     "dailyMinutesDown": {
-      "2023-02-21": 12,
       "2023-02-20": 20,
       "2023-02-19": 17,
       "2023-02-06": 74,
@@ -99,7 +98,7 @@
       "2022-10-16": 47,
       "2022-10-08": 23,
       "2022-10-02": 511,
-      "2022-10-01": 89
+      "2022-10-01": 106
     }
   },
   {
@@ -228,18 +227,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "94.17%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.30%",
     "time": 1154,
-    "timeDay": 1165,
-    "timeWeek": 1146,
-    "timeMonth": 1206,
+    "timeDay": 1201,
+    "timeWeek": 1149,
+    "timeMonth": 1207,
     "timeYear": 1154,
     "dailyMinutesDown": {
+      "2023-02-21": 1,
       "2023-02-20": 114,
       "2023-02-18": 16,
       "2023-02-16": 89,
@@ -255,7 +255,7 @@
       "2023-01-05": 21,
       "2023-01-01": 257,
       "2022-12-13": 78,
-      "2022-12-12": 321
+      "2022-12-12": 297
     }
   },
   {
@@ -263,19 +263,19 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "95.31%",
-    "uptimeWeek": "97.68%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "97.67%",
     "uptimeMonth": "93.46%",
-    "uptimeYear": "99.22%",
-    "time": 2888,
-    "timeDay": 3833,
-    "timeWeek": 3294,
-    "timeMonth": 3114,
-    "timeYear": 2888,
+    "uptimeYear": "99.23%",
+    "time": 2890,
+    "timeDay": 3957,
+    "timeWeek": 3329,
+    "timeMonth": 3121,
+    "timeYear": 2890,
     "dailyMinutesDown": {
-      "2023-02-21": 65,
+      "2023-02-21": 66,
       "2023-02-20": 103,
       "2023-02-16": 20,
       "2023-02-14": 67,
@@ -291,7 +291,7 @@
       "2023-01-01": 432,
       "2022-12-25": 15,
       "2022-12-13": 132,
-      "2022-12-12": 95
+      "2022-12-12": 64
     }
   }
 ]
