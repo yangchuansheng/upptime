@@ -27,18 +27,19 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "98.93%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "95.89%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.09%",
     "time": 2968,
     "timeDay": 2461,
     "timeWeek": 2528,
     "timeMonth": 2511,
     "timeYear": 2968,
     "dailyMinutesDown": {
+      "2023-02-23": 0,
       "2023-02-22": 15,
       "2023-02-20": 20,
       "2023-02-19": 17,
@@ -99,7 +100,7 @@
       "2022-10-16": 47,
       "2022-10-08": 23,
       "2022-10-02": 511,
-      "2022-10-01": 89
+      "2022-10-01": 16
     }
   },
   {
@@ -230,9 +231,9 @@
     "slug": "umami",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "81.65%",
-    "uptimeWeek": "95.62%",
-    "uptimeMonth": "93.45%",
+    "uptimeDay": "82.13%",
+    "uptimeWeek": "95.68%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "99.30%",
     "time": 1155,
     "timeDay": 1201,
@@ -240,7 +241,7 @@
     "timeMonth": 1206,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2023-02-23": 88,
+      "2023-02-23": 81,
       "2023-02-22": 205,
       "2023-02-21": 21,
       "2023-02-20": 114,
@@ -257,7 +258,8 @@
       "2023-01-24": 279,
       "2023-01-05": 21,
       "2023-01-01": 257,
-      "2022-12-13": 78
+      "2022-12-13": 78,
+      "2022-12-12": 30
     }
   },
   {
@@ -267,9 +269,9 @@
     "slug": "privatebin",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "82.50%",
-    "uptimeWeek": "95.28%",
-    "uptimeMonth": "92.76%",
+    "uptimeDay": "82.96%",
+    "uptimeWeek": "95.35%",
+    "uptimeMonth": "92.78%",
     "uptimeYear": "99.22%",
     "time": 2906,
     "timeDay": 3500,
@@ -277,7 +279,7 @@
     "timeMonth": 3158,
     "timeYear": 2906,
     "dailyMinutesDown": {
-      "2023-02-23": 87,
+      "2023-02-23": 80,
       "2023-02-22": 193,
       "2023-02-21": 92,
       "2023-02-20": 103,
@@ -292,7 +294,7 @@
       "2023-01-25": 646,
       "2023-01-24": 407,
       "2023-01-05": 21,
-      "2023-01-01": 393
+      "2023-01-01": 410
     }
   }
 ]
