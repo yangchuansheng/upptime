@@ -29,9 +29,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "96.67%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "99.14%",
     "time": 2967,
     "timeDay": 2607,
@@ -39,7 +39,7 @@
     "timeMonth": 2691,
     "timeYear": 2967,
     "dailyMinutesDown": {
-      "2023-03-01": 31,
+      "2023-03-01": 24,
       "2023-02-26": 71,
       "2023-02-25": 31,
       "2023-02-24": 97,
@@ -101,7 +101,7 @@
       "2022-10-23": 29,
       "2022-10-18": 43,
       "2022-10-17": 38,
-      "2022-10-16": 24
+      "2022-10-16": 47
     }
   },
   {
@@ -233,12 +233,12 @@
     "status": "up",
     "uptime": "99.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.48%",
+    "uptimeWeek": "95.64%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "99.29%",
     "time": 1153,
     "timeDay": 744,
-    "timeWeek": 1113,
+    "timeWeek": 1106,
     "timeMonth": 1188,
     "timeYear": 1153,
     "dailyMinutesDown": {
@@ -270,12 +270,12 @@
     "status": "up",
     "uptime": "99.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.40%",
+    "uptimeWeek": "94.55%",
     "uptimeMonth": "96.90%",
     "uptimeYear": "99.20%",
     "time": 2901,
     "timeDay": 995,
-    "timeWeek": 2801,
+    "timeWeek": 2738,
     "timeMonth": 3016,
     "timeYear": 2901,
     "dailyMinutesDown": {
