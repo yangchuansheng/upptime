@@ -29,9 +29,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "99.16%",
     "time": 2911,
     "timeDay": 2566,
@@ -39,7 +39,6 @@
     "timeMonth": 2714,
     "timeYear": 2911,
     "dailyMinutesDown": {
-      "2023-03-25": 14,
       "2023-03-24": 15,
       "2023-03-19": 74,
       "2023-03-18": 3,
@@ -102,7 +101,7 @@
       "2022-11-11": 26,
       "2022-11-10": 19,
       "2022-11-08": 30,
-      "2022-11-07": 32
+      "2022-11-07": 76
     }
   },
   {
@@ -270,18 +269,19 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "99.07%",
-    "time": 2870,
-    "timeDay": 653,
-    "timeWeek": 801,
-    "timeMonth": 1022,
-    "timeYear": 2870,
+    "time": 2872,
+    "timeDay": 3066,
+    "timeWeek": 1386,
+    "timeMonth": 1157,
+    "timeYear": 2872,
     "dailyMinutesDown": {
+      "2023-03-25": 1,
       "2023-03-06": 155,
       "2023-03-05": 852,
       "2023-02-27": 85,
@@ -300,8 +300,7 @@
       "2023-01-26": 409,
       "2023-01-25": 646,
       "2023-01-24": 407,
-      "2023-01-05": 21,
-      "2023-01-01": 34
+      "2023-01-05": 21
     }
   }
 ]
