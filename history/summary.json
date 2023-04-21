@@ -27,11 +27,11 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.78%",
-    "uptimeMonth": "96.04%",
+    "uptimeMonth": "96.03%",
     "uptimeYear": "99.16%",
     "time": 3453,
     "timeDay": 2610,
@@ -39,6 +39,7 @@
     "timeMonth": 5072,
     "timeYear": 3419,
     "dailyMinutesDown": {
+      "2023-04-21": 0,
       "2023-04-19": 85,
       "2023-04-18": 73,
       "2023-04-17": 31,
@@ -83,8 +84,7 @@
       "2023-01-27": 15,
       "2023-01-24": 35,
       "2023-01-23": 39,
-      "2023-01-20": 33,
-      "2023-01-18": 16
+      "2023-01-20": 33
     }
   },
   {
@@ -122,12 +122,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.99%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 2264,
     "timeDay": 834,
     "timeWeek": 816,
     "timeMonth": 6657,
-    "timeYear": 2356,
+    "timeYear": 2358,
     "dailyMinutesDown": {
       "2023-04-04": 185,
       "2023-03-31": 251,
@@ -228,7 +228,7 @@
     "timeDay": 841,
     "timeWeek": 902,
     "timeMonth": 1397,
-    "timeYear": 1165,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2023-04-17": 527,
       "2023-04-11": 31,
@@ -269,7 +269,7 @@
     "timeDay": 1126,
     "timeWeek": 1498,
     "timeMonth": 2988,
-    "timeYear": 2790,
+    "timeYear": 2783,
     "dailyMinutesDown": {
       "2023-04-18": 929,
       "2023-04-17": 511,
