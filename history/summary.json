@@ -29,9 +29,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "97.40%",
-    "uptimeMonth": "97.38%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "97.47%",
+    "uptimeMonth": "97.39%",
     "uptimeYear": "99.42%",
     "time": 3448,
     "timeDay": 2687,
@@ -39,7 +39,6 @@
     "timeMonth": 3134,
     "timeYear": 3370,
     "dailyMinutesDown": {
-      "2023-05-03": 7,
       "2023-05-02": 81,
       "2023-05-01": 18,
       "2023-04-29": 18,
@@ -79,7 +78,8 @@
       "2023-03-02": 61,
       "2023-03-01": 24,
       "2023-02-26": 71,
-      "2023-02-25": 31
+      "2023-02-25": 31,
+      "2023-02-24": 17
     }
   },
   {
@@ -209,18 +209,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.86%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 1166,
-    "timeDay": 801,
-    "timeWeek": 829,
-    "timeMonth": 1551,
+    "timeDay": 1259,
+    "timeWeek": 940,
+    "timeMonth": 1554,
     "timeYear": 1148,
     "dailyMinutesDown": {
+      "2023-05-03": 0,
       "2023-04-17": 527,
       "2023-04-11": 31,
       "2023-04-04": 379,
@@ -242,7 +243,7 @@
       "2023-01-27": 713,
       "2023-01-26": 401,
       "2023-01-25": 466,
-      "2023-01-24": 211
+      "2023-01-24": 189
     }
   },
   {
