@@ -29,17 +29,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "97.70%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "99.42%",
     "time": 3420,
     "timeDay": 2589,
     "timeWeek": 2609,
     "timeMonth": 3079,
     "timeYear": 3346,
     "dailyMinutesDown": {
-      "2023-05-08": 9,
       "2023-05-05": 57,
       "2023-05-04": 15,
       "2023-05-03": 28,
@@ -79,7 +78,8 @@
       "2023-03-07": 35,
       "2023-03-04": 139,
       "2023-03-03": 54,
-      "2023-03-02": 61
+      "2023-03-02": 61,
+      "2023-03-01": 24
     }
   },
   {
@@ -209,18 +209,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "98.60%",
+    "status": "down",
+    "uptime": "99.10%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "99.02%",
-    "time": 1171,
-    "timeDay": 924,
-    "timeWeek": 868,
-    "timeMonth": 912,
-    "timeYear": 1147,
+    "time": 1172,
+    "timeDay": 1362,
+    "timeWeek": 945,
+    "timeMonth": 932,
+    "timeYear": 1148,
     "dailyMinutesDown": {
+      "2023-05-08": 1,
       "2023-05-03": 57,
       "2023-04-17": 527,
       "2023-04-11": 31,
@@ -243,7 +244,7 @@
       "2023-01-27": 713,
       "2023-01-26": 401,
       "2023-01-25": 466,
-      "2023-01-24": 189
+      "2023-01-24": 155
     }
   },
   {
@@ -251,18 +252,19 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.64%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 2720,
-    "timeDay": 966,
-    "timeWeek": 881,
-    "timeMonth": 1315,
-    "timeYear": 2626,
+    "timeDay": 3461,
+    "timeWeek": 1516,
+    "timeMonth": 1434,
+    "timeYear": 2628,
     "dailyMinutesDown": {
+      "2023-05-08": 1,
       "2023-04-18": 929,
       "2023-04-17": 511,
       "2023-04-11": 31,
@@ -286,7 +288,7 @@
       "2023-02-06": 216,
       "2023-01-28": 352,
       "2023-01-27": 482,
-      "2023-01-26": 409
+      "2023-01-26": 351
     }
   }
 ]
