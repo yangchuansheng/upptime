@@ -27,18 +27,19 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.85%",
     "uptimeMonth": "97.78%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 3416,
     "timeDay": 2633,
     "timeWeek": 2599,
     "timeMonth": 3082,
     "timeYear": 3343,
     "dailyMinutesDown": {
+      "2023-05-09": 0,
       "2023-05-05": 57,
       "2023-05-04": 15,
       "2023-05-03": 28,
@@ -78,8 +79,7 @@
       "2023-03-07": 35,
       "2023-03-04": 139,
       "2023-03-03": 54,
-      "2023-03-02": 61,
-      "2023-03-01": 24
+      "2023-03-02": 61
     }
   },
   {
@@ -211,9 +211,9 @@
     "slug": "umami",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "98.53%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.02%",
     "time": 1164,
     "timeDay": 1151,
@@ -221,7 +221,7 @@
     "timeMonth": 957,
     "timeYear": 1148,
     "dailyMinutesDown": {
-      "2023-05-09": 29,
+      "2023-05-09": 17,
       "2023-05-03": 57,
       "2023-04-17": 527,
       "2023-04-11": 31,
@@ -244,7 +244,7 @@
       "2023-01-27": 713,
       "2023-01-26": 401,
       "2023-01-25": 466,
-      "2023-01-24": 139
+      "2023-01-24": 155
     }
   },
   {
@@ -253,10 +253,10 @@
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
     "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "96.58%",
+    "uptime": "98.97%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "96.60%",
     "uptimeYear": "98.89%",
     "time": 2815,
     "timeDay": 3100,
@@ -264,7 +264,7 @@
     "timeMonth": 1676,
     "timeYear": 2630,
     "dailyMinutesDown": {
-      "2023-05-09": 28,
+      "2023-05-09": 17,
       "2023-04-18": 929,
       "2023-04-17": 511,
       "2023-04-11": 31,
@@ -288,7 +288,7 @@
       "2023-02-06": 216,
       "2023-01-28": 352,
       "2023-01-27": 482,
-      "2023-01-26": 326
+      "2023-01-26": 351
     }
   }
 ]
