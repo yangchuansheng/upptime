@@ -29,13 +29,13 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "97.66%",
+    "uptimeDay": "98.84%",
     "uptimeWeek": "98.19%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "99.42%",
     "time": 3410,
-    "timeDay": 2605,
-    "timeWeek": 2466,
+    "timeDay": 2480,
+    "timeWeek": 2459,
     "timeMonth": 3089,
     "timeYear": 3338,
     "dailyMinutesDown": {
@@ -210,19 +210,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "88.23%",
-    "uptimeWeek": "96.40%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "88.18%",
+    "uptimeWeek": "96.39%",
     "uptimeMonth": "97.84%",
     "uptimeYear": "99.00%",
     "time": 1165,
-    "timeDay": 1206,
-    "timeWeek": 1172,
-    "timeMonth": 1076,
-    "timeYear": 1150,
+    "timeDay": 1217,
+    "timeWeek": 1176,
+    "timeMonth": 1080,
+    "timeYear": 1151,
     "dailyMinutesDown": {
-      "2023-05-12": 127,
+      "2023-05-12": 128,
       "2023-05-11": 43,
       "2023-05-10": 91,
       "2023-05-09": 103,
@@ -247,7 +247,7 @@
       "2023-01-28": 291,
       "2023-01-27": 713,
       "2023-01-26": 401,
-      "2023-01-25": 381
+      "2023-01-25": 366
     }
   },
   {
@@ -256,10 +256,10 @@
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
     "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "93.77%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "96.10%",
+    "uptime": "98.96%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "96.13%",
     "uptimeYear": "98.87%",
     "time": 2799,
     "timeDay": 3631,
@@ -267,7 +267,7 @@
     "timeMonth": 2880,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2023-05-12": 69,
+      "2023-05-12": 58,
       "2023-05-11": 20,
       "2023-05-10": 91,
       "2023-05-09": 86,
@@ -294,7 +294,7 @@
       "2023-02-06": 216,
       "2023-01-28": 352,
       "2023-01-27": 482,
-      "2023-01-26": 188
+      "2023-01-26": 221
     }
   }
 ]
