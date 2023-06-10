@@ -27,10 +27,10 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "96.47%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "96.46%",
     "uptimeMonth": "95.15%",
     "uptimeYear": "99.24%",
     "time": 3282,
@@ -39,6 +39,7 @@
     "timeMonth": 2427,
     "timeYear": 3206,
     "dailyMinutesDown": {
+      "2023-06-10": 0,
       "2023-06-09": 18,
       "2023-06-08": 206,
       "2023-06-07": 46,
@@ -90,7 +91,7 @@
       "2023-04-07": 17,
       "2023-04-04": 227,
       "2023-03-31": 201,
-      "2023-03-30": 341
+      "2023-03-30": 324
     }
   },
   {
@@ -167,9 +168,9 @@
     "url": "https://gcr.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-14-22-96fQTG.png",
     "slug": "gcr-io-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.85%",
@@ -179,6 +180,7 @@
     "timeMonth": 685,
     "timeYear": 832,
     "dailyMinutesDown": {
+      "2023-06-10": 0,
       "2023-04-25": 16,
       "2023-04-04": 213,
       "2023-03-31": 292,
@@ -266,18 +268,19 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "98.35%",
-    "uptimeYear": "98.88%",
-    "time": 2835,
+    "uptimeYear": "98.89%",
+    "time": 2833,
     "timeDay": 3132,
     "timeWeek": 2252,
     "timeMonth": 3159,
     "timeYear": 2764,
     "dailyMinutesDown": {
+      "2023-06-10": 0,
       "2023-06-09": 26,
       "2023-05-15": 18,
       "2023-05-14": 155,
@@ -307,8 +310,7 @@
       "2023-02-13": 57,
       "2023-02-12": 42,
       "2023-02-06": 216,
-      "2023-01-28": 352,
-      "2023-01-27": 28
+      "2023-01-28": 352
     }
   }
 ]
