@@ -28,10 +28,10 @@
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "93.07%",
-    "uptimeWeek": "95.72%",
-    "uptimeMonth": "94.52%",
+    "uptime": "99.73%",
+    "uptimeDay": "94.09%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "94.55%",
     "uptimeYear": "99.24%",
     "time": 3241,
     "timeDay": 2512,
@@ -39,7 +39,6 @@
     "timeMonth": 2386,
     "timeYear": 3134,
     "dailyMinutesDown": {
-      "2023-06-18": 15,
       "2023-06-17": 85,
       "2023-06-16": 165,
       "2023-06-15": 42,
@@ -95,7 +94,7 @@
       "2023-04-15": 33,
       "2023-04-11": 46,
       "2023-04-10": 4,
-      "2023-04-09": 17
+      "2023-04-09": 41
     }
   },
   {
@@ -125,10 +124,10 @@
     "url": "https://docker.icloudnative.io",
     "icon": "https://hub.docker.com/favicon.ico",
     "slug": "docker-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "95.42%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.78%",
     "time": 2089,
@@ -137,6 +136,7 @@
     "timeMonth": 721,
     "timeYear": 2305,
     "dailyMinutesDown": {
+      "2023-06-18": 2,
       "2023-06-17": 68,
       "2023-06-10": 190,
       "2023-04-04": 185,
@@ -223,9 +223,9 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "92.59%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "93.35%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.03%",
@@ -235,6 +235,7 @@
     "timeMonth": 1180,
     "timeYear": 1184,
     "dailyMinutesDown": {
+      "2023-06-18": 1,
       "2023-06-17": 153,
       "2023-06-11": 23,
       "2023-06-10": 233,
@@ -265,7 +266,7 @@
       "2023-02-13": 57,
       "2023-02-12": 62,
       "2023-01-28": 291,
-      "2023-01-27": 138
+      "2023-01-27": 105
     }
   },
   {
@@ -276,8 +277,8 @@
     "status": "down",
     "uptime": "98.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.81%",
-    "uptimeMonth": "93.54%",
+    "uptimeWeek": "74.69%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "98.46%",
     "time": 2782,
     "timeDay": 675,
@@ -285,7 +286,7 @@
     "timeMonth": 1813,
     "timeYear": 2753,
     "dailyMinutesDown": {
-      "2023-06-18": 796,
+      "2023-06-18": 807,
       "2023-06-17": 1440,
       "2023-06-16": 304,
       "2023-06-10": 268,
