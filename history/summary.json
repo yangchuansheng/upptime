@@ -28,18 +28,18 @@
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "91.03%",
-    "uptimeWeek": "94.56%",
-    "uptimeMonth": "94.13%",
-    "uptimeYear": "99.24%",
+    "uptime": "99.73%",
+    "uptimeDay": "92.06%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "94.16%",
+    "uptimeYear": "99.23%",
     "time": 3242,
     "timeDay": 2209,
-    "timeWeek": 2808,
-    "timeMonth": 2483,
+    "timeWeek": 2811,
+    "timeMonth": 2484,
     "timeYear": 3138,
     "dailyMinutesDown": {
-      "2023-06-21": 96,
+      "2023-06-21": 81,
       "2023-06-20": 34,
       "2023-06-19": 68,
       "2023-06-18": 20,
@@ -93,7 +93,7 @@
       "2023-04-23": 64,
       "2023-04-22": 83,
       "2023-04-19": 85,
-      "2023-04-18": 5
+      "2023-04-18": 73
     }
   },
   {
@@ -275,18 +275,19 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
-    "uptime": "98.61%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.62%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "67.81%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "98.33%",
+    "uptimeMonth": "91.92%",
+    "uptimeYear": "98.34%",
     "time": 2773,
-    "timeDay": 1170,
-    "timeWeek": 1340,
-    "timeMonth": 1848,
-    "timeYear": 2752,
+    "timeDay": 3327,
+    "timeWeek": 1685,
+    "timeMonth": 1899,
+    "timeYear": 2754,
     "dailyMinutesDown": {
+      "2023-06-21": 1,
       "2023-06-19": 107,
       "2023-06-18": 1394,
       "2023-06-17": 1440,
@@ -318,7 +319,7 @@
       "2023-02-20": 103,
       "2023-02-16": 20,
       "2023-02-14": 67,
-      "2023-02-13": 57
+      "2023-02-13": 19
     }
   }
 ]
