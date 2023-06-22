@@ -14,7 +14,7 @@
     "timeDay": 177,
     "timeWeek": 331,
     "timeMonth": 302,
-    "timeYear": 343,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2022-11-23": 73,
       "2022-11-14": 74,
@@ -27,17 +27,17 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "84.28%",
+    "uptimeDay": "85.64%",
     "uptimeWeek": "93.22%",
     "uptimeMonth": "93.77%",
     "uptimeYear": "99.25%",
     "time": 3232,
-    "timeDay": 2556,
+    "timeDay": 2534,
     "timeWeek": 2771,
     "timeMonth": 2500,
-    "timeYear": 3117,
+    "timeYear": 3118,
     "dailyMinutesDown": {
       "2023-06-22": 205,
       "2023-06-21": 106,
@@ -90,7 +90,7 @@
       "2023-04-27": 19,
       "2023-04-26": 139,
       "2023-04-25": 52,
-      "2023-04-24": 82
+      "2023-04-24": 63
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeDay": 300,
     "timeWeek": 336,
     "timeMonth": 332,
-    "timeYear": 469,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2022-07-10": 450,
       "2022-07-09": 421,
@@ -130,7 +130,7 @@
     "timeDay": 788,
     "timeWeek": 2140,
     "timeMonth": 1208,
-    "timeYear": 2329,
+    "timeYear": 2332,
     "dailyMinutesDown": {
       "2023-06-19": 99,
       "2023-06-17": 68,
@@ -177,7 +177,7 @@
     "timeDay": 870,
     "timeWeek": 2017,
     "timeMonth": 1167,
-    "timeYear": 866,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2023-06-19": 68,
       "2023-06-18": 49,
@@ -231,7 +231,7 @@
     "timeDay": 1095,
     "timeWeek": 1469,
     "timeMonth": 1327,
-    "timeYear": 1192,
+    "timeYear": 1193,
     "dailyMinutesDown": {
       "2023-06-19": 136,
       "2023-06-18": 49,
@@ -282,7 +282,7 @@
     "timeDay": 1158,
     "timeWeek": 1913,
     "timeMonth": 1933,
-    "timeYear": 2748,
+    "timeYear": 2750,
     "dailyMinutesDown": {
       "2023-06-19": 107,
       "2023-06-18": 1394,
