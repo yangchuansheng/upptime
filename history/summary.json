@@ -26,15 +26,15 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "86.20%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "86.19%",
     "uptimeWeek": "87.38%",
     "uptimeMonth": "93.18%",
     "uptimeYear": "99.14%",
-    "time": 3137,
-    "timeDay": 4342,
-    "timeWeek": 3063,
+    "time": 3200,
+    "timeDay": 4409,
+    "timeWeek": 3067,
     "timeMonth": 2754,
     "timeYear": 3086,
     "dailyMinutesDown": {
@@ -81,7 +81,7 @@
       "2023-05-25": 46,
       "2023-05-24": 590,
       "2023-05-23": 41,
-      "2023-05-22": 32
+      "2023-05-22": 17
     }
   },
   {
@@ -216,18 +216,18 @@
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
     "status": "down",
-    "uptime": "98.60%",
+    "uptime": "98.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "58.24%",
-    "uptimeMonth": "88.94%",
-    "uptimeYear": "98.25%",
+    "uptimeWeek": "57.24%",
+    "uptimeMonth": "88.76%",
+    "uptimeYear": "98.23%",
     "time": 1172,
     "timeDay": 650,
     "timeWeek": 909,
-    "timeMonth": 1333,
+    "timeMonth": 1214,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2023-07-09": 867,
+      "2023-07-09": 967,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 463,
@@ -273,17 +273,16 @@
     "slug": "privatebin",
     "status": "up",
     "uptime": "98.42%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "83.26%",
-    "uptimeMonth": "88.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "83.40%",
+    "uptimeMonth": "88.12%",
     "uptimeYear": "98.03%",
     "time": 2716,
     "timeDay": 2425,
     "timeWeek": 2352,
-    "timeMonth": 2184,
+    "timeMonth": 2132,
     "timeYear": 2751,
     "dailyMinutesDown": {
-      "2023-07-09": 14,
       "2023-07-07": 17,
       "2023-07-06": 1111,
       "2023-07-05": 546,
@@ -318,7 +317,7 @@
       "2023-02-21": 92,
       "2023-02-20": 103,
       "2023-02-16": 20,
-      "2023-02-14": 16
+      "2023-02-14": 45
     }
   }
 ]
