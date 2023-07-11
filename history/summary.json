@@ -26,12 +26,12 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "84.82%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "84.80%",
     "uptimeWeek": "85.19%",
     "uptimeMonth": "93.33%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.29%",
     "time": 3200,
     "timeDay": 3453,
     "timeWeek": 3129,
@@ -78,7 +78,7 @@
       "2023-05-30": 18,
       "2023-05-29": 54,
       "2023-05-28": 17,
-      "2023-05-27": 68
+      "2023-05-27": 23
     }
   },
   {
@@ -106,9 +106,9 @@
     "slug": "docker-hub-mirror",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "93.12%",
-    "uptimeMonth": "97.99%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "93.25%",
+    "uptimeMonth": "98.02%",
     "uptimeYear": "98.63%",
     "time": 2070,
     "timeDay": 925,
@@ -116,7 +116,7 @@
     "timeMonth": 1438,
     "timeYear": 2331,
     "dailyMinutesDown": {
-      "2023-07-11": 47,
+      "2023-07-11": 34,
       "2023-07-09": 66,
       "2023-07-07": 237,
       "2023-07-06": 342,
@@ -157,9 +157,9 @@
     "slug": "gcr-io-mirror",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "93.54%",
-    "uptimeMonth": "98.11%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "93.67%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "98.67%",
     "time": 859,
     "timeDay": 724,
@@ -167,7 +167,7 @@
     "timeMonth": 1325,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2023-07-11": 40,
+      "2023-07-11": 27,
       "2023-07-09": 31,
       "2023-07-07": 237,
       "2023-07-06": 342,
@@ -203,7 +203,7 @@
       "2022-09-02": 218,
       "2022-08-25": 85,
       "2022-08-19": 15,
-      "2022-08-12": 23
+      "2022-08-12": 38
     }
   },
   {
@@ -212,10 +212,10 @@
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
     "status": "down",
-    "uptime": "98.22%",
+    "uptime": "98.21%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.67%",
-    "uptimeMonth": "83.69%",
+    "uptimeWeek": "32.44%",
+    "uptimeMonth": "83.64%",
     "uptimeYear": "97.76%",
     "time": 1172,
     "timeDay": 513,
@@ -223,7 +223,7 @@
     "timeMonth": 1230,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2023-07-11": 564,
+      "2023-07-11": 587,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
