@@ -17,8 +17,7 @@
     "timeYear": 345,
     "dailyMinutesDown": {
       "2022-11-23": 73,
-      "2022-11-14": 74,
-      "2022-07-14": 402
+      "2022-11-14": 74
     }
   },
   {
@@ -28,17 +27,17 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "78.81%",
-    "uptimeWeek": "84.61%",
-    "uptimeMonth": "92.20%",
+    "uptimeDay": "79.72%",
+    "uptimeWeek": "85.87%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "99.21%",
     "time": 3153,
-    "timeDay": 4151,
+    "timeDay": 3114,
     "timeWeek": 3332,
     "timeMonth": 2922,
     "timeYear": 3096,
     "dailyMinutesDown": {
-      "2023-07-13": 305,
+      "2023-07-13": 297,
       "2023-07-12": 155,
       "2023-07-11": 305,
       "2023-07-10": 112,
@@ -73,7 +72,8 @@
       "2023-06-09": 18,
       "2023-06-08": 206,
       "2023-06-07": 46,
-      "2023-06-06": 27
+      "2023-06-06": 27,
+      "2023-06-05": 18
     }
   },
   {
@@ -102,7 +102,7 @@
     "status": "up",
     "uptime": "98.90%",
     "uptimeDay": "96.58%",
-    "uptimeWeek": "95.35%",
+    "uptimeWeek": "96.52%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "98.61%",
     "time": 2054,
@@ -154,7 +154,7 @@
     "status": "up",
     "uptime": "98.95%",
     "uptimeDay": "98.77%",
-    "uptimeWeek": "96.14%",
+    "uptimeWeek": "97.31%",
     "uptimeMonth": "98.00%",
     "uptimeYear": "98.67%",
     "time": 858,
@@ -208,18 +208,19 @@
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
     "status": "down",
-    "uptime": "97.66%",
+    "uptime": "97.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.20%",
-    "uptimeYear": "97.05%",
+    "uptimeMonth": "74.93%",
+    "uptimeYear": "97.03%",
     "time": 1172,
     "timeDay": 715,
     "timeWeek": 663,
     "timeMonth": 1230,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2023-07-13": 1406,
+      "2023-07-14": 84,
+      "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
@@ -268,7 +269,7 @@
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "93.95%",
     "uptimeWeek": "98.00%",
     "uptimeMonth": "88.31%",
