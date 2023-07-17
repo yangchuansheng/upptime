@@ -25,18 +25,19 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "91.07%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "91.08%",
     "uptimeMonth": "92.64%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.24%",
     "time": 3198,
     "timeDay": 2544,
-    "timeWeek": 3208,
+    "timeWeek": 3192,
     "timeMonth": 2939,
     "timeYear": 3090,
     "dailyMinutesDown": {
+      "2023-07-17": 0,
       "2023-07-16": 17,
       "2023-07-15": 21,
       "2023-07-14": 23,
@@ -73,8 +74,7 @@
       "2023-06-11": 67,
       "2023-06-10": 317,
       "2023-06-09": 18,
-      "2023-06-08": 206,
-      "2023-06-07": 11
+      "2023-06-08": 67
     }
   },
   {
@@ -212,7 +212,7 @@
     "uptime": "96.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.37%",
+    "uptimeMonth": "64.32%",
     "uptimeYear": "96.14%",
     "time": 1172,
     "timeDay": 726,
@@ -220,7 +220,7 @@
     "timeMonth": 1227,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2023-07-17": 434,
+      "2023-07-17": 453,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -274,9 +274,9 @@
     "slug": "privatebin",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "89.88%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "89.96%",
     "uptimeYear": "98.01%",
     "time": 2682,
     "timeDay": 3375,
@@ -284,7 +284,7 @@
     "timeMonth": 2075,
     "timeYear": 2737,
     "dailyMinutesDown": {
-      "2023-07-17": 32,
+      "2023-07-17": 17,
       "2023-07-16": 19,
       "2023-07-13": 87,
       "2023-07-12": 62,
@@ -321,7 +321,7 @@
       "2023-02-23": 393,
       "2023-02-22": 193,
       "2023-02-21": 92,
-      "2023-02-20": 2
+      "2023-02-20": 19
     }
   }
 ]
