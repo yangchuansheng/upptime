@@ -1,7 +1,7 @@
 url: https://privatebin.icloudnative.io
-status: up
-code: 200
-responseTime: 1015
-lastUpdated: 2023-07-30T11:11:55.493Z
+status: down
+code: 503
+responseTime: 5732
+lastUpdated: 2023-07-30T11:19:46.308Z
 startTime: Sat Apr 09 2022 09:54:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
