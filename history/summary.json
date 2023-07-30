@@ -28,16 +28,16 @@
     "status": "down",
     "uptime": "99.52%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "63.58%",
-    "uptimeMonth": "85.65%",
+    "uptimeWeek": "63.51%",
+    "uptimeMonth": "85.63%",
     "uptimeYear": "98.58%",
     "time": 3201,
     "timeDay": 15871,
     "timeWeek": 3441,
-    "timeMonth": 3164,
+    "timeMonth": 3162,
     "timeYear": 3097,
     "dailyMinutesDown": {
-      "2023-07-30": 924,
+      "2023-07-30": 932,
       "2023-07-29": 1440,
       "2023-07-28": 940,
       "2023-07-27": 201,
@@ -105,17 +105,17 @@
     "url": "https://docker.icloudnative.io",
     "icon": "https://hub.docker.com/favicon.ico",
     "slug": "docker-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "68.20%",
+    "uptimeDay": "68.43%",
     "uptimeWeek": "88.46%",
     "uptimeMonth": "95.48%",
     "uptimeYear": "99.24%",
-    "time": 3242,
-    "timeDay": 7987,
-    "timeWeek": 7557,
-    "timeMonth": 6447,
-    "timeYear": 3600,
+    "time": 3257,
+    "timeDay": 8176,
+    "timeWeek": 7624,
+    "timeMonth": 6484,
+    "timeYear": 3614,
     "dailyMinutesDown": {
       "2023-07-30": 370,
       "2023-07-29": 424,
@@ -136,7 +136,7 @@
       "2023-03-30": 545,
       "2023-03-29": 337,
       "2023-02-20": 20,
-      "2023-01-01": 330
+      "2023-01-01": 302
     }
   },
   {
@@ -147,8 +147,8 @@
     "status": "down",
     "uptime": "99.44%",
     "uptimeDay": "71.02%",
-    "uptimeWeek": "89.53%",
-    "uptimeMonth": "95.89%",
+    "uptimeWeek": "89.46%",
+    "uptimeMonth": "95.88%",
     "uptimeYear": "99.27%",
     "time": 913,
     "timeDay": 1186,
@@ -156,7 +156,7 @@
     "timeMonth": 1100,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2023-07-30": 251,
+      "2023-07-30": 258,
       "2023-07-29": 466,
       "2023-07-28": 288,
       "2023-07-27": 51,
@@ -190,7 +190,7 @@
     "uptime": "94.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.18%",
+    "uptimeMonth": "21.17%",
     "uptimeYear": "92.49%",
     "time": 1173,
     "timeDay": 719,
@@ -198,7 +198,7 @@
     "timeMonth": 939,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2023-07-30": 925,
+      "2023-07-30": 932,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
@@ -265,9 +265,9 @@
     "slug": "privatebin",
     "status": "up",
     "uptime": "96.64%",
-    "uptimeDay": "68.26%",
-    "uptimeWeek": "25.44%",
-    "uptimeMonth": "65.45%",
+    "uptimeDay": "69.25%",
+    "uptimeWeek": "25.58%",
+    "uptimeMonth": "65.47%",
     "uptimeYear": "95.61%",
     "time": 2695,
     "timeDay": 3278,
@@ -275,7 +275,7 @@
     "timeMonth": 2637,
     "timeYear": 2760,
     "dailyMinutesDown": {
-      "2023-07-30": 264,
+      "2023-07-30": 257,
       "2023-07-29": 196,
       "2023-07-28": 781,
       "2023-07-27": 1440,
@@ -321,7 +321,7 @@
       "2023-03-05": 852,
       "2023-02-27": 85,
       "2023-02-24": 86,
-      "2023-02-23": 110
+      "2023-02-23": 142
     }
   }
 ]
