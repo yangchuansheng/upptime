@@ -27,9 +27,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "96.66%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "98.23%",
     "time": 3013,
     "timeDay": 2516,
@@ -37,7 +37,7 @@
     "timeMonth": 2593,
     "timeYear": 3001,
     "dailyMinutesDown": {
-      "2023-09-09": 49,
+      "2023-09-09": 38,
       "2023-09-08": 17,
       "2023-09-07": 62,
       "2023-09-06": 5,
@@ -94,7 +94,7 @@
       "2023-07-13": 297,
       "2023-07-12": 155,
       "2023-07-11": 305,
-      "2023-07-10": 59
+      "2023-07-10": 83
     }
   },
   {
@@ -201,19 +201,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "93.32%",
-    "uptimeDay": "87.92%",
+    "uptimeDay": "87.87%",
     "uptimeWeek": "98.27%",
     "uptimeMonth": "93.74%",
-    "uptimeYear": "90.51%",
-    "time": 1189,
-    "timeDay": 1382,
-    "timeWeek": 1326,
-    "timeMonth": 1260,
+    "uptimeYear": "90.52%",
+    "time": 1190,
+    "timeDay": 1398,
+    "timeWeek": 1341,
+    "timeMonth": 1268,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2023-09-09": 174,
+      "2023-09-09": 175,
       "2023-08-16": 572,
       "2023-08-15": 1440,
       "2023-08-14": 557,
@@ -279,7 +279,7 @@
       "2023-02-18": 16,
       "2023-02-16": 89,
       "2023-02-15": 27,
-      "2023-02-14": 47
+      "2023-02-14": 17
     }
   },
   {
@@ -289,8 +289,8 @@
     "slug": "privatebin",
     "status": "down",
     "uptime": "91.56%",
-    "uptimeDay": "91.62%",
-    "uptimeWeek": "98.80%",
+    "uptimeDay": "90.81%",
+    "uptimeWeek": "98.69%",
     "uptimeMonth": "31.72%",
     "uptimeYear": "88.01%",
     "time": 2757,
@@ -299,7 +299,7 @@
     "timeMonth": 2301,
     "timeYear": 2805,
     "dailyMinutesDown": {
-      "2023-09-09": 121,
+      "2023-09-09": 133,
       "2023-08-30": 397,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
