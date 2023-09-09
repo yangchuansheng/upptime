@@ -33,7 +33,7 @@
     "uptimeYear": "98.23%",
     "time": 3017,
     "timeDay": 2515,
-    "timeWeek": 2491,
+    "timeWeek": 2490,
     "timeMonth": 2595,
     "timeYear": 3001,
     "dailyMinutesDown": {
@@ -201,19 +201,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
-    "uptime": "93.31%",
-    "uptimeDay": "90.95%",
-    "uptimeWeek": "98.71%",
+    "status": "down",
+    "uptime": "93.32%",
+    "uptimeDay": "90.89%",
+    "uptimeWeek": "98.70%",
     "uptimeMonth": "93.84%",
-    "uptimeYear": "90.51%",
-    "time": 1187,
-    "timeDay": 1365,
-    "timeWeek": 1262,
-    "timeMonth": 1217,
+    "uptimeYear": "90.52%",
+    "time": 1188,
+    "timeDay": 1388,
+    "timeWeek": 1281,
+    "timeMonth": 1224,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2023-09-09": 130,
+      "2023-09-09": 131,
       "2023-08-16": 572,
       "2023-08-15": 1440,
       "2023-08-14": 557,
@@ -280,7 +280,7 @@
       "2023-02-16": 89,
       "2023-02-15": 27,
       "2023-02-14": 47,
-      "2023-02-13": 57
+      "2023-02-13": 19
     }
   },
   {
@@ -288,19 +288,19 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "91.54%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "31.35%",
+    "uptimeMonth": "31.36%",
     "uptimeYear": "88.00%",
     "time": 2745,
-    "timeDay": 3345,
-    "timeWeek": 2697,
-    "timeMonth": 1923,
-    "timeYear": 2799,
+    "timeDay": 3469,
+    "timeWeek": 2801,
+    "timeMonth": 1999,
+    "timeYear": 2801,
     "dailyMinutesDown": {
-      "2023-09-09": 16,
+      "2023-09-09": 17,
       "2023-08-30": 397,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -371,7 +371,7 @@
       "2023-04-11": 31,
       "2023-04-04": 58,
       "2023-03-31": 273,
-      "2023-03-30": 68
+      "2023-03-30": 48
     }
   }
 ]
