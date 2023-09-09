@@ -25,9 +25,9 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "97.38%",
+    "uptimeDay": "97.34%",
     "uptimeWeek": "97.46%",
     "uptimeMonth": "96.69%",
     "uptimeYear": "98.23%",
@@ -94,7 +94,7 @@
       "2023-07-13": 297,
       "2023-07-12": 155,
       "2023-07-11": 305,
-      "2023-07-10": 83
+      "2023-07-10": 59
     }
   },
   {
@@ -203,9 +203,9 @@
     "slug": "umami",
     "status": "down",
     "uptime": "93.32%",
-    "uptimeDay": "71.85%",
-    "uptimeWeek": "95.98%",
-    "uptimeMonth": "93.21%",
+    "uptimeDay": "71.33%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "90.51%",
     "time": 1194,
     "timeDay": 1363,
@@ -213,7 +213,7 @@
     "timeMonth": 1283,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2023-09-09": 404,
+      "2023-09-09": 412,
       "2023-08-16": 572,
       "2023-08-15": 1440,
       "2023-08-14": 557,
@@ -283,19 +283,19 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "91.56%",
-    "uptimeDay": "79.59%",
+    "uptimeDay": "79.56%",
     "uptimeWeek": "97.08%",
-    "uptimeMonth": "32.47%",
-    "uptimeYear": "88.00%",
-    "time": 2771,
-    "timeDay": 3381,
-    "timeWeek": 3132,
-    "timeMonth": 2644,
-    "timeYear": 2815,
+    "uptimeMonth": "32.49%",
+    "uptimeYear": "88.01%",
+    "time": 2773,
+    "timeDay": 3418,
+    "timeWeek": 3168,
+    "timeMonth": 2677,
+    "timeYear": 2816,
     "dailyMinutesDown": {
-      "2023-09-09": 295,
+      "2023-09-09": 296,
       "2023-08-30": 397,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -364,8 +364,7 @@
       "2023-04-18": 929,
       "2023-04-17": 511,
       "2023-04-11": 31,
-      "2023-04-04": 58,
-      "2023-03-31": 16
+      "2023-04-04": 58
     }
   }
 ]
