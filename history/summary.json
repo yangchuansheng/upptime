@@ -112,7 +112,7 @@
     "timeDay": 438,
     "timeWeek": 335,
     "timeMonth": 354,
-    "timeYear": 386,
+    "timeYear": 374,
     "dailyMinutesDown": {}
   },
   {
@@ -130,7 +130,7 @@
     "timeDay": 834,
     "timeWeek": 907,
     "timeMonth": 823,
-    "timeYear": 3996,
+    "timeYear": 3999,
     "dailyMinutesDown": {
       "2023-08-10": 59,
       "2023-08-01": 520,
@@ -201,19 +201,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "93.32%",
-    "uptimeDay": "69.92%",
+    "uptimeDay": "69.87%",
     "uptimeWeek": "95.70%",
-    "uptimeMonth": "93.15%",
-    "uptimeYear": "90.50%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "90.51%",
     "time": 1193,
-    "timeDay": 1374,
-    "timeWeek": 1344,
-    "timeMonth": 1290,
-    "timeYear": 1193,
+    "timeDay": 1381,
+    "timeWeek": 1351,
+    "timeMonth": 1295,
+    "timeYear": 1194,
     "dailyMinutesDown": {
-      "2023-09-09": 432,
+      "2023-09-09": 433,
       "2023-08-16": 572,
       "2023-08-15": 1440,
       "2023-08-14": 557,
@@ -275,7 +275,7 @@
       "2023-02-23": 352,
       "2023-02-22": 205,
       "2023-02-21": 21,
-      "2023-02-20": 73
+      "2023-02-20": 46
     }
   },
   {
@@ -283,19 +283,19 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "91.56%",
-    "uptimeDay": "79.59%",
+    "uptimeDay": "79.56%",
     "uptimeWeek": "97.08%",
-    "uptimeMonth": "32.58%",
-    "uptimeYear": "88.00%",
+    "uptimeMonth": "32.60%",
+    "uptimeYear": "88.01%",
     "time": 2771,
-    "timeDay": 3382,
-    "timeWeek": 3146,
-    "timeMonth": 2676,
-    "timeYear": 2815,
+    "timeDay": 3417,
+    "timeWeek": 3180,
+    "timeMonth": 2708,
+    "timeYear": 2818,
     "dailyMinutesDown": {
-      "2023-09-09": 295,
+      "2023-09-09": 296,
       "2023-08-30": 397,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -364,8 +364,7 @@
       "2023-04-18": 929,
       "2023-04-17": 511,
       "2023-04-11": 31,
-      "2023-04-04": 58,
-      "2023-03-31": 16
+      "2023-04-04": 58
     }
   }
 ]
