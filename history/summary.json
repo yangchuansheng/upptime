@@ -27,9 +27,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "96.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "96.81%",
     "uptimeYear": "98.23%",
     "time": 3045,
     "timeDay": 2411,
@@ -37,7 +37,6 @@
     "timeMonth": 2592,
     "timeYear": 2998,
     "dailyMinutesDown": {
-      "2023-09-10": 6,
       "2023-09-09": 38,
       "2023-09-08": 17,
       "2023-09-07": 62,
@@ -95,7 +94,7 @@
       "2023-07-13": 297,
       "2023-07-12": 155,
       "2023-07-11": 305,
-      "2023-07-10": 59
+      "2023-07-10": 83
     }
   },
   {
@@ -202,19 +201,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "down",
+    "status": "up",
     "uptime": "93.32%",
-    "uptimeDay": "67.38%",
-    "uptimeWeek": "94.16%",
-    "uptimeMonth": "92.79%",
-    "uptimeYear": "90.51%",
+    "uptimeDay": "67.41%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "92.78%",
+    "uptimeYear": "90.50%",
     "time": 1195,
-    "timeDay": 1364,
-    "timeWeek": 1354,
-    "timeMonth": 1305,
-    "timeYear": 1197,
+    "timeDay": 1358,
+    "timeWeek": 1349,
+    "timeMonth": 1302,
+    "timeYear": 1196,
     "dailyMinutesDown": {
-      "2023-09-10": 155,
+      "2023-09-10": 162,
       "2023-09-09": 432,
       "2023-08-16": 572,
       "2023-08-15": 1440,
@@ -285,9 +284,9 @@
     "slug": "privatebin",
     "status": "up",
     "uptime": "91.74%",
-    "uptimeDay": "64.07%",
-    "uptimeWeek": "94.71%",
-    "uptimeMonth": "33.43%",
+    "uptimeDay": "64.49%",
+    "uptimeWeek": "94.77%",
+    "uptimeMonth": "33.46%",
     "uptimeYear": "88.26%",
     "time": 2771,
     "timeDay": 3390,
@@ -295,7 +294,7 @@
     "timeMonth": 2870,
     "timeYear": 2828,
     "dailyMinutesDown": {
-      "2023-09-10": 217,
+      "2023-09-10": 211,
       "2023-09-09": 316,
       "2023-08-30": 397,
       "2023-08-29": 1440,
@@ -361,7 +360,7 @@
       "2023-05-12": 153,
       "2023-05-11": 20,
       "2023-05-10": 91,
-      "2023-05-09": 42
+      "2023-05-09": 69
     }
   }
 ]
