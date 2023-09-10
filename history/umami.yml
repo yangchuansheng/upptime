@@ -1,7 +1,7 @@
 url: https://umami.icloudnative.io
-status: up
-code: 200
-responseTime: 796
-lastUpdated: 2023-09-10T12:11:37.743Z
+status: down
+code: 503
+responseTime: 1731
+lastUpdated: 2023-09-10T12:58:46.346Z
 startTime: 2022-04-09T07:44:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
