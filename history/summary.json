@@ -25,9 +25,9 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "97.74%",
+    "uptimeDay": "97.73%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "97.84%",
     "uptimeYear": "98.31%",
@@ -100,8 +100,7 @@
       "2023-07-21": 83,
       "2023-07-20": 32,
       "2023-07-19": 16,
-      "2023-07-16": 17,
-      "2023-07-15": 21
+      "2023-07-16": 17
     }
   },
   {
