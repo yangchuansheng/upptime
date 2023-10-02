@@ -27,17 +27,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.23%",
     "uptimeYear": "98.31%",
     "time": 3011,
-    "timeDay": 2500,
+    "timeDay": 2408,
     "timeWeek": 2435,
-    "timeMonth": 2543,
+    "timeMonth": 2545,
     "timeYear": 2973,
     "dailyMinutesDown": {
-      "2023-10-02": 7,
       "2023-09-30": 33,
       "2023-09-29": 21,
       "2023-09-28": 21,
@@ -101,7 +100,8 @@
       "2023-07-21": 83,
       "2023-07-20": 32,
       "2023-07-19": 16,
-      "2023-07-16": 17
+      "2023-07-16": 17,
+      "2023-07-15": 21
     }
   },
   {
@@ -208,18 +208,19 @@
     "url": "https://umami.icloudnative.io",
     "icon": "https://umami.icloudnative.io/favicon.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "93.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.70%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "90.88%",
     "time": 1206,
-    "timeDay": 836,
-    "timeWeek": 1049,
-    "timeMonth": 1294,
+    "timeDay": 1284,
+    "timeWeek": 1095,
+    "timeMonth": 1295,
     "timeYear": 1212,
     "dailyMinutesDown": {
+      "2023-10-02": 1,
       "2023-09-12": 37,
       "2023-09-11": 523,
       "2023-09-10": 450,
@@ -271,7 +272,7 @@
       "2023-05-14": 149,
       "2023-05-13": 431,
       "2023-05-12": 246,
-      "2023-05-11": 43
+      "2023-05-11": 22
     }
   },
   {
@@ -279,18 +280,19 @@
     "url": "https://privatebin.icloudnative.io",
     "icon": "https://privatebin.icloudnative.io/img/favicon.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "92.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.83%",
-    "uptimeYear": "88.25%",
+    "uptimeYear": "88.26%",
     "time": 2803,
-    "timeDay": 1089,
-    "timeWeek": 2141,
-    "timeMonth": 3114,
-    "timeYear": 2878,
+    "timeDay": 3417,
+    "timeWeek": 2418,
+    "timeMonth": 3124,
+    "timeYear": 2880,
     "dailyMinutesDown": {
+      "2023-10-02": 1,
       "2023-09-12": 56,
       "2023-09-11": 444,
       "2023-09-10": 571,
@@ -351,8 +353,7 @@
       "2023-06-18": 1394,
       "2023-06-17": 1440,
       "2023-06-16": 304,
-      "2023-06-10": 268,
-      "2023-06-09": 26
+      "2023-06-10": 268
     }
   }
 ]
