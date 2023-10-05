@@ -25,14 +25,14 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "96.21%",
+    "uptimeDay": "96.20%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "98.37%",
-    "uptimeYear": "98.30%",
-    "time": 2976,
-    "timeDay": 2293,
+    "uptimeYear": "98.31%",
+    "time": 2972,
+    "timeDay": 2320,
     "timeWeek": 2566,
     "timeMonth": 2554,
     "timeYear": 2970,
@@ -99,8 +99,7 @@
       "2023-07-25": 61,
       "2023-07-24": 67,
       "2023-07-23": 167,
-      "2023-07-22": 48,
-      "2023-07-21": 83
+      "2023-07-22": 48
     }
   },
   {
@@ -210,9 +209,9 @@
     "slug": "umami",
     "status": "up",
     "uptime": "93.88%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "96.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "96.59%",
     "uptimeYear": "90.87%",
     "time": 1206,
     "timeDay": 1255,
@@ -220,7 +219,6 @@
     "timeMonth": 1290,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2023-10-05": 11,
       "2023-10-04": 47,
       "2023-09-12": 37,
       "2023-09-11": 523,
@@ -273,7 +271,7 @@
       "2023-05-14": 149,
       "2023-05-13": 431,
       "2023-05-12": 246,
-      "2023-05-11": 1
+      "2023-05-11": 22
     }
   },
   {
@@ -283,17 +281,16 @@
     "slug": "privatebin",
     "status": "up",
     "uptime": "92.13%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "88.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "96.58%",
+    "uptimeYear": "88.25%",
     "time": 2796,
     "timeDay": 3349,
     "timeWeek": 1806,
     "timeMonth": 3110,
     "timeYear": 2882,
     "dailyMinutesDown": {
-      "2023-10-05": 11,
       "2023-10-04": 109,
       "2023-09-12": 56,
       "2023-09-11": 444,
@@ -355,7 +352,7 @@
       "2023-06-18": 1394,
       "2023-06-17": 1440,
       "2023-06-16": 304,
-      "2023-06-10": 125
+      "2023-06-10": 161
     }
   }
 ]
