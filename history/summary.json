@@ -25,19 +25,19 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "96.51%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "96.54%",
     "uptimeYear": "98.22%",
-    "time": 2990,
+    "time": 2991,
     "timeDay": 5500,
     "timeWeek": 3731,
     "timeMonth": 2933,
     "timeYear": 2990,
     "dailyMinutesDown": {
-      "2023-10-17": 13,
+      "2023-10-17": 0,
       "2023-10-15": 16,
       "2023-10-14": 60,
       "2023-10-12": 29,
@@ -131,9 +131,9 @@
     "slug": "docker-hub-mirror",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "97.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "98.99%",
     "time": 3584,
     "timeDay": 700,
@@ -141,7 +141,6 @@
     "timeMonth": 1532,
     "timeYear": 4100,
     "dailyMinutesDown": {
-      "2023-10-17": 13,
       "2023-10-09": 125,
       "2023-10-08": 290,
       "2023-10-07": 167,
@@ -165,7 +164,7 @@
       "2023-06-10": 190,
       "2023-04-04": 185,
       "2023-03-31": 251,
-      "2023-03-30": 66
+      "2023-03-30": 87
     }
   },
   {
@@ -175,9 +174,9 @@
     "slug": "gcr-io-mirror",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "97.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.91%",
     "uptimeYear": "98.99%",
     "time": 1022,
     "timeDay": 676,
@@ -185,7 +184,6 @@
     "timeMonth": 752,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2023-10-17": 12,
       "2023-10-09": 126,
       "2023-10-08": 290,
       "2023-10-07": 167,
@@ -213,7 +211,7 @@
       "2023-04-25": 16,
       "2023-04-04": 213,
       "2023-03-31": 292,
-      "2023-03-30": 102
+      "2023-03-30": 132
     }
   },
   {
@@ -223,9 +221,9 @@
     "slug": "umami",
     "status": "up",
     "uptime": "93.84%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "96.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.54%",
     "uptimeYear": "90.62%",
     "time": 1199,
     "timeDay": 1114,
@@ -233,7 +231,6 @@
     "timeMonth": 977,
     "timeYear": 1216,
     "dailyMinutesDown": {
-      "2023-10-17": 12,
       "2023-10-09": 126,
       "2023-10-08": 589,
       "2023-10-07": 358,
@@ -289,7 +286,7 @@
       "2023-05-15": 86,
       "2023-05-14": 149,
       "2023-05-13": 431,
-      "2023-05-12": 104
+      "2023-05-12": 119
     }
   },
   {
@@ -299,9 +296,9 @@
     "slug": "privatebin",
     "status": "up",
     "uptime": "92.11%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "96.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.40%",
     "uptimeYear": "87.99%",
     "time": 2795,
     "timeDay": 1158,
@@ -309,7 +306,6 @@
     "timeMonth": 1649,
     "timeYear": 2876,
     "dailyMinutesDown": {
-      "2023-10-17": 11,
       "2023-10-09": 126,
       "2023-10-08": 589,
       "2023-10-07": 358,
@@ -375,7 +371,7 @@
       "2023-06-18": 1394,
       "2023-06-17": 1440,
       "2023-06-16": 304,
-      "2023-06-10": 59
+      "2023-06-10": 97
     }
   }
 ]
