@@ -1,7 +1,7 @@
 url: https://gcr.icloudnative.io
-status: down
-code: 503
-responseTime: 738
-lastUpdated: 2023-11-05T18:37:25.775Z
+status: up
+code: 200
+responseTime: 815
+lastUpdated: 2023-11-05T18:44:17.696Z
 startTime: 2022-04-09T07:44:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
