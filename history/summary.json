@@ -22,14 +22,14 @@
     "url": "https://google.icloudnative.io",
     "icon": "https://jsdelivr.fuckcloudnative.io/gh/yangchuansheng/imghosting3@main/uPic/2022-04-09-18-17-lBUsMt.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "91.29%",
+    "uptimeDay": "92.11%",
     "uptimeWeek": "96.83%",
     "uptimeMonth": "91.56%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.81%",
     "time": 2995,
-    "timeDay": 2719,
+    "timeDay": 2722,
     "timeWeek": 2652,
     "timeMonth": 2711,
     "timeYear": 3012,
@@ -100,7 +100,7 @@
       "2023-08-25": 18,
       "2023-08-24": 51,
       "2023-08-23": 5,
-      "2023-08-22": 46
+      "2023-08-22": 15
     }
   },
   {
